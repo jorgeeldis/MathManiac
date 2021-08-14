@@ -1,12 +1,10 @@
-# Stoa Calculator
+# Math Maniac
 
-> Stoa Calculator is a powerful calculator that have everything you need to do any kind of calculations!
+> Math Maniac is a game for people who loves math and like to test themselves!
 
-This calculator can do from basic aritmethic to advanced calculus, we will be releasing more
-updates and adding more features, our goal is to make this calculator the most powerful calculator
-ever to exist.
+MathManiac is a simple arithmetic game where you can put your knowledge to the maximum, this game helps you to streamline your mind, increase your concentration and at the same time practice your mathematical knowledge, complete information is requested as an introduction and at the end a complete report is given, so you can improve and get better!
 
-![](https://raw.githubusercontent.com/jorgeeldis/StoaCalculator/main/header.png)
+![](https://raw.githubusercontent.com/jorgeeldis/MathManiac/main/header.png)
 
 ## Development setup
 
